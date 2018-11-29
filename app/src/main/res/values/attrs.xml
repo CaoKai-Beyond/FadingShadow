@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FadingShadowView">
+        <attr name="Color" format="color"/>
+        <attr name="Position" format="enum">
+            <enum name="BOTTOM" value="1"/>
+            <enum name="TOP" value="0"/>
+        </attr>
+        <attr name="Strength" format="float"/>
+    </declare-styleable>
+</resources>

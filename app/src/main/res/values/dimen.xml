@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h1">3dp</dimen>
+    <dimen name="qs">40dp</dimen>
+    <dimen name="qt">12dp</dimen>
+    <dimen name="qq">4dp</dimen>
+    <dimen name="r0">18dp</dimen>
+    <dimen name="qy">10dp</dimen>
+    <dimen name="qw">6dp</dimen>
+    <dimen name="qx">4dp</dimen>
+    <dimen name="qr">44dp</dimen>
+    <dimen name="qu">6dp</dimen>
+    <dimen name="uq">16dp</dimen>
+    <dimen name="a0b">17sp</dimen>
+    <dimen name="a0c">15sp</dimen>
+    <dimen name="a0_">11sp</dimen>
+    <dimen name="p">0dp</dimen>
+    <dimen name="a05">56dp</dimen>
+    <dimen name="g7">16dp</dimen>
+    <dimen name="a08">20dp</dimen>
+    <color name="h7">#e6e8ea</color>
+    <dimen name="jo">1px</dimen>
+    <dimen name="a07">48dp</dimen>
+    <dimen name="enhanced_bookmark_full_shadow_scroll_distance">5dp</dimen>
+
+</resources>
